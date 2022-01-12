@@ -1,5 +1,5 @@
 # Singapore-Taxi-Availability-and-Machine-Learning
-Regression-based machine learning model to predict taxi availability by calling API from Singapore government's data portal
+Regression-based machine learning model to predict taxi availability by calling API from Singapore government's data portal. Documentation is available in the IPYNB files.
 
 ## Data Source
 Source: https://data.gov.sg/dataset/taxi-availability
